@@ -32,11 +32,5 @@ public class GameManager {
 
         }
     }
-
-    public static void fightExample(){
-        Character c1 = CharacterFactory.createCharacter();
-        Character c2 = CharacterFactory.createCharacter();
-        fight(c1, c2);
-    }
 }
 
